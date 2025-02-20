@@ -1,0 +1,82 @@
+[
+    {
+        "student_id": "S001",
+        "name": "John Smith",
+        "address": "123 Oak Street, Springfield",
+        "phone_no": "555-0101",
+        "interest": "ai/ml",
+        "iq_score": 130
+    },
+    {
+        "student_id": "S002",
+        "name": "Emma Watson",
+        "address": null,
+        "phone_no": "555-9999",
+        "interest": "web dev",
+        "iq_score": 97
+    },
+    {
+        "student_id": "S003",
+        "name": "Michael Chen",
+        "address": "789 Maple Ave, Riverside",
+        "phone_no": "555-0103",
+        "interest": "digital marketing",
+        "iq_score": 91
+    },
+    {
+        "student_id": "S004",
+        "name": "Sarah Johnson",
+        "address": "456 Pine Road, Lakeside",
+        "phone_no": "555-0104",
+        "interest": "graphics design",
+        "iq_score": 137
+    },
+    {
+        "student_id": "S005",
+        "name": "David Brown",
+        "address": "321 Elm Street, Hillside",
+        "phone_no": null,
+        "interest": "research",
+        "iq_score": 107
+    },
+    {
+        "student_id": "S006",
+        "name": "Lisa Anderson",
+        "address": "654 Cedar Lane, Brookside",
+        "phone_no": "555-0106",
+        "interest": "ai/ml",
+        "iq_score": 105
+    },
+    {
+        "student_id": "S007",
+        "name": "James Wilson",
+        "address": "987 Birch Road, Mountainview",
+        "phone_no": "555-0107",
+        "interest": "web dev",
+        "iq_score": 104
+    },
+    {
+        "student_id": "S008",
+        "name": "Emily Davis",
+        "address": "147 Willow Street, Seaside",
+        "phone_no": "555-0108",
+        "interest": "research",
+        "iq_score": 98
+    },
+    {
+        "student_id": "S009",
+        "name": "Robert Taylor",
+        "address": "258 Aspen Court, Valley",
+        "phone_no": "555-0109",
+        "interest": "digital marketing",
+        "iq_score": 137
+    },
+    {
+        "student_id": "S010",
+        "name": "Maria Garcia",
+        "address": "369 Palm Drive, Desert",
+        "phone_no": "555-0110",
+        "interest": "graphics design",
+        "iq_score": 96
+    }
+]
