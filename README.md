@@ -184,6 +184,12 @@ Here you can see the overview of the **Python programming course outline** desig
 
 ---
 
+## **Bonus Class**
+
+> Streamlit ( Python library for interactive web applications )
+
+---
+
 ## Prepared by: **Sujan Sharma (ML Engineer | Lecturer)**
 
 ## Support
