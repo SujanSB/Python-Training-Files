@@ -1,4 +1,6 @@
-# Welcome to the Python Programming Course! Your Journey into Code Begins Here.
+## Welcome to the Python Programming Course!!!
+
+### Your Journey into Code Begins Here.
 
 Here you can see the overview of the **Python programming course outline** designed to take you from a beginner to someone capable of tackling diverse tasks — from basic scripting to how the things will take their shapes in the world of **data science** and **machine learning**.
 
@@ -182,11 +184,25 @@ Here you can see the overview of the **Python programming course outline** desig
 
 ---
 
-## Prepared by: **Sujan Sharma (ML Engineer)**
+## Prepared by: **Sujan Sharma (ML Engineer | Lecturer)**
 
-# Support
+## Support
 
 This is a free repository. If you find it helpful, please consider giving it a ⭐ star!
 
 **Got an issue or suggestion?**  
 Feel free to open an issue — I'd love to hear from you!
+
+## ....................🌱....................
+
+## A Note to Learners
+
+### Every day is an opportunity to learn something new.
+
+Learning is a continuous journey — **You won't learn everything all at once**, and that's okay. What truly matters is your **curiosity**, your **willingness to explore possibilities**, and your **eagerness to grow**.
+
+Not everything needs to be perfect — just **be good**, be consistent, and keep moving forward.
+
+This repository won't make you a master overnight, but it **will teach you the essential foundations of Python** — the things every aspiring programmer should be familiar with.
+
+## So dive in, take your time, and enjoy the process.
